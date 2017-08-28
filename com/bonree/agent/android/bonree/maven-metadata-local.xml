@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bonree.agent.android</groupId>
+  <artifactId>classrewriter</artifactId>
+  <versioning>
+    <release>2.2.1.6.2</release>
+    <versions>
+      <version>2.2.1.6.2</version>
+    </versions>
+    <lastUpdated>20170828071635</lastUpdated>
+  </versioning>
+</metadata>
