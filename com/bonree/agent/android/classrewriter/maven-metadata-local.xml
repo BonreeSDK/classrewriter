@@ -3,10 +3,10 @@
   <groupId>com.bonree.agent.android</groupId>
   <artifactId>classrewriter</artifactId>
   <versioning>
-    <release>2.1.8.5-2</release>
+    <release>2.1.8.5-3</release>
     <versions>
-      <version>2.1.8.5-2</version>
+      <version>2.1.8.5-3</version>
     </versions>
-    <lastUpdated>20180307033035</lastUpdated>
+    <lastUpdated>20180307063003</lastUpdated>
   </versioning>
 </metadata>
